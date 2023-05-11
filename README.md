@@ -1,5 +1,5 @@
 ## Healthcare-Related Tableau Dashboards
-This repository links to multiple sales, profit, and business forecast dashboards that use the Superstore data set from Tableau. Multiple visualization styles are demonstrated over various color schemes: sunburst chart, area chart, donut charts, mapping, etc.
+This repository links to multiple health-related dashboards that show a variety of visuals to understand population health.
 
 ## Rates of Health-Related Factors in the United States
 
