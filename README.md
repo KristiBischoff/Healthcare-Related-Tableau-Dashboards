@@ -37,12 +37,12 @@ Database citation: Centers for Medicare & Medicaid Services. Opiod Treatment Pro
 
 ![Opioid_Treatment_dashboard](Opioid_Treatment_Provider.PNG)
 
-## Summary of the 2016-2019 Medicare Advantage Population by State
+## 2016-2019 Medicare Advantage (MA) Population Statistics by State
 
 Sources/Citations:
 Database citation: Centers for Medicare & Medicaid Services. Medicare Advantage Geographic Variation - National & State. [https://data.cms.gov/provider-characteristics/medicare-provider-supplier-enrollment/opioid-treatment-program-providers](https://data.cms.gov/provider-characteristics/medicare-provider-supplier-enrollment/opioid-treatment-program-providers) Accessed on May 1, 2023. 
 
-[Summary of the 2016-2019 Medicare Advantage Population by State by Kristi Bischoff](https://public.tableau.com/app/profile/kristi.bischoff/viz/Summaryofthe2016-2019MedicareAdvantagePopulationbyState/MAStatisticsDashboard)
+[2016-2019 Medicare Advantage (MA) Population Statistics by State by Kristi Bischoff](https://public.tableau.com/app/profile/kristi.bischoff/viz/Summaryofthe2016-2019MedicareAdvantagePopulationbyState/MAStatisticsDashboard)
 
 ![MA_Bene_dashboard](Medicare_Pop_Stats.PNG)
 
